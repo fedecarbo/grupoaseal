@@ -1,5 +1,12 @@
+
 header {
-  background-image: url(/img/dashboard.png);
+  background-image: url("img/dashboard.png");
   background-size: cover;
   height: 700px;
+}
+
+nav {
+	background-color: rgba(255,255,255,0.3);
+	position: fixed;
+	width: 100%;
 }
